@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+<p align="justify">
+  <a href="https://github.com/juliog85/github-readme-stats">
+    <img
+      align="justify"
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=juliog85&count_private=true&show_icons=true&custom_title=Júlio%20Gomes'%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+    />
+   </a>
+</p>
 <!--
 **juliog85/juliog85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
